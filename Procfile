@@ -1,0 +1,1 @@
+web: gunicorn DjangoETL.wsgi --log-file -
